@@ -10,4 +10,4 @@
 
 * Fully processing Bürokratt's ADR before proposing and providing technical solutions for Bürokratt is a must for all of our current and future partners.
 
->In case of proposing a tender within any of Bürokratt's procurements, Bürokratt expects participants' technical solutions to fully comply with Bürokratt's ADR. If not, this must be clearly stated in tender. Bürokratt has the right (but not an obligation) to disregard all such tenders.
+* <span style="color: orange;">In case of proposing a tender within any of Bürokratt's procurements, Bürokratt expects participants' technical solutions to fully comply with Bürokratt's ADR. If not, this must be clearly stated in tender. Bürokratt has the right (but not an obligation) to disregard all such tenders.</span>

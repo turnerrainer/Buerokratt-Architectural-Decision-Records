@@ -1,6 +1,6 @@
 ## Architectural Decision Log
 
->*The numbering of decision records below is no persistent*
+>*The numbering of decision records below is not persistent*
 
 <!-- adrlog -->
 
