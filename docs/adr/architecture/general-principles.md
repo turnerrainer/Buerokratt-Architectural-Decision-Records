@@ -1,0 +1,1 @@
+# [ARCHITECTURE] General architectural principles
