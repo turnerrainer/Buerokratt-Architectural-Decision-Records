@@ -1,1 +1,0 @@
-# [ARCHITECTURE] Architecturally supportive components

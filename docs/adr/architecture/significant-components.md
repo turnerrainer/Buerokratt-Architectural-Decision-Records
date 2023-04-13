@@ -1,1 +1,0 @@
-# [ARCHITECTURE] Architecturally significant components
